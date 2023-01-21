@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
-# Tool Name :- IP-Tracer
-# Author :- Rajkumar Dusad
-# Date :- 10/10/2018
+# Tool Name :- TechieGamer-IP-Tracker
+# Author :- Techie Gamer
+# Telegram:- @TechieGamer
+# Date :- 21/01/2023
 
 case "$1" in
   -m)
