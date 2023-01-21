@@ -1,6 +1,7 @@
-# Tool Name :- IP-Tracer
-# Author :- Rajkumar Dusad
-# Date :- 5/8/2018
+# Tool Name :- TechieGamer-IP-Tracker
+# Author :- Techie Gamer
+# Telegram:- @TechieGamer
+# Date :- 21/01/2023
 
 if [ -e  /usr/lib/sudo ];then
   if [ ! -e /usr/bin/php ];then
