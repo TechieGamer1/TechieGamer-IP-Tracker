@@ -31,5 +31,5 @@
 
 * `ip-tracer` for more information.
 
-/n/n[![https://telegram.me/TechieGamer](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/TechieGamer)
+[![https://telegram.me/TechieGamer](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/TechieGamer)
 [![https://telegram.me/TechieGamer](https://img.shields.io/badge/Telegram-@TechieGamer-blue.svg?style=flat-square)](https://telegram.me/TechieGamer)
